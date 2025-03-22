@@ -4,9 +4,9 @@ For Web Application Technology
 
 ## 📌 Project URL:
 [👉 Click here to view the project](https://github.com/Ogosi454/Basic-HTML-Webpage-Project/blob/main/Index.html)
-[👉 Click here to view the project]()
-[👉 Click here to view the project]()
-[👉 Click here to view the project]()
+[👉 Click here to view the project](https://github.com/Ogosi454/Basic-HTML-Webpage-Project/blob/main/article.html)
+[👉 Click here to view the project](https://github.com/Ogosi454/Basic-HTML-Webpage-Project/blob/main/project.html)
+[👉 Click here to view the project](https://github.com/Ogosi454/Basic-HTML-Webpage-Project/blob/main/contact.html)
 ---
 
 This project is a **basic multi-page website** built using **only HTML** to focus on structure without styling.
