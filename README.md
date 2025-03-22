@@ -1,2 +1,2 @@
 ## 🚀 Project URL:
-🔗 **[Click here to view the project](https://ogosi454.github.io/Basic-HTML-Webpage-Project/)**
+🔗 **[Click here to view the project](https://github.com/Ogosi454/Basic-HTML-Webpage-Project)**
